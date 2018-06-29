@@ -1,4 +1,4 @@
-# Image-Processing
+# Image-Keras
 ## Objective
 Make an application that notices what input image is by using image processing.
 
